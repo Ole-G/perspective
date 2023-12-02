@@ -1,6 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
-
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -17,34 +15,10 @@
 
 
     <style type="text/css">
-	@font-face {font-family: Gilroy;        src: url
-
-("https://perspectiveteam.com/static/frontend/Perspective/default/en_US/fonts/Gilroy/Gilroy-
-
-Light.woff2")          format("woff2");        font-weight: 300;        font-style: normal;        font-
-
-display: block;}
-	@font-face {font-family: Gilroy;        src: url
-
-("https://perspectiveteam.com/static/frontend/Perspective/default/en_US/fonts/Gilroy/Gilroy-
-
-Regular.woff2")          format("woff2");        font-weight: 400;        font-style: normal;        
-
-font-display: block;}
-	@font-face {font-family: Gilroy;        src: url
-
-("https://perspectiveteam.com/static/frontend/Perspective/default/en_US/fonts/Gilroy/Gilroy-
-
-Medium.woff2")          format("woff2");        font-weight: 500;        font-style: normal;        
-
-font-display: block;}
-	@font-face {font-family: Gilroy;        src: url
-
-("https://perspectiveteam.com/static/frontend/Perspective/default/en_US/fonts/Gilroy/Gilroy-
-
-SemiBold.woff2")          format("woff2");        font-weight: 600;        font-style: normal;        
-
-font-display: block;}
+	@font-face {font-family: Gilroy;        src: url("https://perspectiveteam.com/static/frontend/Perspective/default/en_US/fonts/Gilroy/Gilroy-Light.woff2")          format("woff2");        font-weight: 300;        font-style: normal;        font-display: block;}
+	@font-face {font-family: Gilroy;        src: url("https://perspectiveteam.com/static/frontend/Perspective/default/en_US/fonts/Gilroy/Gilroy-Regular.woff2")          format("woff2");        font-weight: 400;        font-style: normal;        font-display: block;}
+	@font-face {font-family: Gilroy;        src: url("https://perspectiveteam.com/static/frontend/Perspective/default/en_US/fonts/Gilroy/Gilroy-Medium.woff2")          format("woff2");        font-weight: 500;        font-style: normal;        font-display: block;}
+	@font-face {font-family: Gilroy;        src: url("https://perspectiveteam.com/static/frontend/Perspective/default/en_US/fonts/Gilroy/Gilroy-SemiBold.woff2")          format("woff2");        font-weight: 600;        font-style: normal;        font-display: block;}
 		a{
 			text-decoration:none;
 			transition:0.4s all ease-in-out;
@@ -605,9 +579,7 @@ font-display: block;}
 		}
 
 }	@media screen and (max-width: 599px){
-		.updates-square-1 .text-base,.updates-square-2 .text-base,.updates-
-
-square-3 .text-base{
+		.updates-square-1 .text-base,.updates-square-2 .text-base,.updates-square-3 .text-base{
 			margin-left:6px !important;
 		}
 
@@ -652,45 +624,27 @@ square-3 .text-base{
             <tr>
                 <td>
                     <div itemscope="" itemtype="http://schema.org/EmailMessage">
-                        <div itemprop="publisher" itemscope="" 
-
-itemtype="http://schema.org/Organization">
-                            <meta itemprop="name" content="*|LIST:COMPANY|*"><link 
-
-itemprop="url" content="*|LIST:URL|*">
+                        <div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+                            <meta itemprop="name" content="*|LIST:COMPANY|*"><link itemprop="url" content="*|LIST:URL|*">
                         </div>
                         <div itemprop="about" itemscope="" itemtype="http://schema.org/Offer">
-                            <link itemprop="image" href="https://github.com/rostilos/new-
-
-perspective/blob/master/email-templates/images/common/logo.png?raw=true">
+                            <link itemprop="image" href="https://github.com/rostilos/new-perspective/blob/master/email-templates/images/common/logo.png?raw=true">
                         </div>
                     </div>
                     <div itemscope="" itemtype="http://schema.org/EmailMessage">
-                        <div itemprop="publisher" itemscope="" 
-
-itemtype="http://schema.org/Organization">
-                            <meta itemprop="name" content="*|LIST:COMPANY|*"><link 
-
-itemprop="url" content="*|LIST:URL|*">
+                        <div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+                            <meta itemprop="name" content="*|LIST:COMPANY|*"><link itemprop="url" content="*|LIST:URL|*">
                         </div>
                         <div itemprop="about" itemscope="" itemtype="http://schema.org/Offer">
-                            <link itemprop="image" href="https://github.com/rostilos/new-
-
-perspective/blob/master/email-templates/images/common/logo.png?raw=true">
+                            <link itemprop="image" href="https://github.com/rostilos/new-perspective/blob/master/email-templates/images/common/logo.png?raw=true">
                         </div>
                     </div>
                     <div itemscope="" itemtype="http://schema.org/EmailMessage">
-                        <div itemprop="publisher" itemscope="" 
-
-itemtype="http://schema.org/Organization">
-                            <meta itemprop="name" content="*|LIST:COMPANY|*"><link 
-
-itemprop="url" content="*|LIST:URL|*">
+                        <div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+                            <meta itemprop="name" content="*|LIST:COMPANY|*"><link itemprop="url" content="*|LIST:URL|*">
                         </div>
                         <div itemprop="about" itemscope="" itemtype="http://schema.org/Offer">
-                            <link itemprop="image" href="https://github.com/rostilos/new-
-
-perspective/blob/master/email-templates/images/common/logo.png?raw=true">
+                            <link itemprop="image" href="https://github.com/rostilos/new-perspective/blob/master/email-templates/images/common/logo.png?raw=true">
                         </div>
                     </div>
                 </td>
@@ -711,14 +665,8 @@ perspective/blob/master/email-templates/images/common/logo.png?raw=true">
                                         <tr>
                                             <td align="left">
                                                 <div class="header__logo">
-                                                    <a href="https://perspectiveteam.com" style="display: block; 
-
-width: 100%; height: 100%">
-                                                        <img src="https://github.com/rostilos/new-
-
-perspective/blob/master/email-templates/images/common/logo.png?raw=true" alt="logotype" 
-
-width="145" height="64" style="width: 145px; height: auto">
+                                                    <a href="https://perspectiveteam.com" style="display: block; width: 100%; height: 100%">
+                                                        <img src="https://github.com/rostilos/new-perspective/blob/master/email-templates/images/common/logo.png?raw=true" alt="logotype" width="145" height="64" style="width: 145px; height: auto">
                                                     </a>
                                                 </div>
                                             </td>
@@ -766,18 +714,10 @@ width="145" height="64" style="width: 145px; height: auto">
                                     <table class="contents">
                                         <tr>
                                             <td class="text">
-                                                <h1 class="section-intro__title" style="font-weight: 
-
-600">eCommerce Insights: November 2023</h1>
-                                                <p class="text-lg" style="font-weight: 400; padding-bottom: 
-
-10px; font-size: 16px; line-height: 24px">
+                                                <h1 class="section-intro__title" style="font-weight: 600">eCommerce Insights: November 2023</h1>
+                                                <p class="text-lg" style="font-weight: 400; padding-bottom: 10px; font-size: 16px; line-height: 24px">
                               <span>
-                                Hey there! This month, we're diving deep into Magento, offering 
-
-guidelines to elevate your eCommerce store. Plus, join our exclusive webinar with Yaroslav 
-
-Zinchuk, who'll share secrets to boost your average order value by 50%. Don't miss out!
+                                Hey there, eCommerce Enthusiasts! 🚀 Embrace November's Black Friday excitement and AI breakthroughs in eCommerce. Discover Augmented Reality's value and AI's game-changing potential. Join us for a tech-savvy journey!
                                 <br>
                                 <br>
                               </span>
@@ -799,13 +739,7 @@ Zinchuk, who'll share secrets to boost your average order value by 50%. Don't mi
                                     <table class="contents">
                                         <tr>
                                             <td>
-                                                <img src="https://github.com/rostilos/new-
-
-perspective/blob/master/email-templates/images/ecommerce-berlin/IMAGE-1.png?raw=true" 
-
-alt="eCommerce London" style="padding-bottom: 30px; max-width: 280px; display: block; 
-
-margin: 0 auto">
+                                                <img src="https://github.com/Ole-G/perspective/blob/main/Image%20Black%20Friday.png?raw=true" alt="eCommerce London" style="padding-bottom: 30px; max-width: 280px; display: block; margin: 0 auto">
                                             </td>
                                         </tr>
                                     </table>
@@ -828,9 +762,7 @@ margin: 0 auto">
                         <tr>
                             <td class="inner contents">
                                 <div class="section-stories">
-                                    <h3 class="section-stories__title" style="font-weight: 600">Stories you 
-
-may have missed</h3>
+                                    <h3 class="section-stories__title" style="font-weight: 600">Stories you may have missed</h3>
                                 </div>
                             </td>
                         </tr>
@@ -858,11 +790,7 @@ may have missed</h3>
                                     <table align="left" dir="ltr" style="text-align: left">
                                         <tr class="section-stories__img">
                                             <td colspan="1" style="padding: 0; padding-top: 16px">
-                                                <img src="https://github.com/Ole-
-
-G/perspective/blob/main/AR-1.png?raw=true" alt="article-img" width="104" height="80" 
-
-style="
+                                                <img src="https://github.com/Ole-G/perspective/blob/main/AR-1.png?raw=true" alt="article-img" width="104" height="80" style="
                                 object-fit: cover;
                                 object-position: 80%;
                                 height: 120px;
@@ -874,18 +802,10 @@ style="
                                         <tr class="section-stories__item">
                                             <td colspan="6" style="padding: 0">
                                                 <div>
-                                                    <p class="text-xs" style="text-align: left; font-weight: 500; 
-
-color: #949494; margin-bottom: 12px!important">
+                                                    <p class="text-xs" style="text-align: left; font-weight: 500; color: #949494; margin-bottom: 12px!important">
                                                         November 22, 2023
                                                     </p>
-                                                    <a href="https://mirasvit.com/blog/how-augmented-reality-
-
-delivers-real-value-for-online-retailers.html" class="text-base section-stories__text" 
-
-style="font-weight: 600; color: inherit; text-align: left">Beyond the Hype: How Augmented 
-
-Reality Delivers Real Value for Online Retailers
+                                                    <a href="https://mirasvit.com/blog/how-augmented-reality-delivers-real-value-for-online-retailers.html" class="text-base section-stories__text" style="font-weight: 600; color: inherit; text-align: left">Beyond the Hype: How Augmented Reality Delivers Real Value for Online Retailers
                                                     </a>
                                                 </div>
                                             </td>
@@ -905,11 +825,7 @@ Reality Delivers Real Value for Online Retailers
                                     <table align="left" style="text-align: left">
                                         <tr class="section-stories__img">
                                             <td colspan="1" style="padding: 0; padding-top: 16px">
-                                                <img src="https://github.com/Ole-
-
-G/perspective/blob/main/Webinar-title.png?raw=true" alt="article-img" width="104" 
-
-height="80" style="
+                                                <img src="https://github.com/Ole-G/perspective/blob/main/Perspective_WEBSITE.png?raw=true" alt="article-img" width="104" height="80" style="
                                 object-fit: cover;
                                 object-position: 80%;
                                 height: 120px;
@@ -921,19 +837,11 @@ height="80" style="
                                         <tr class="section-stories__item">
                                             <td colspan="6" style="padding: 0" dir="ltr">
                                                 <div>
-                                                    <p class="text-xs" style="text-align: left; font-weight: 500; 
-
-color: #949494; margin-bottom: 12px!important">
+                                                    <p class="text-xs" style="text-align: left; font-weight: 500; color: #949494; margin-bottom: 12px!important">
                                                         November 16, 2023
                                                     </p>
-                                                    <a href="https://www.youtube.com/watch?v=4-
-
-CHoSP_yrA&t=328s" class="text-base section-stories__text" style="font-weight: 600; color: 
-
-inherit">
-                                                        [WATCH WEBINAR] 6 strategies that can increase the 
-
-average order value by up to 50%
+                                                    <a href="https://www.youtube.com/watch?v=4-CHoSP_yrA&t=328s" class="text-base section-stories__text" style="font-weight: 600; color: inherit">
+                                                        [WATCH WEBINAR] Learn How AI and Personalized Suggestions Can Boost Your Average Order Value
                                                     </a>
                                                 </div>
                                             </td>
@@ -978,395 +886,245 @@ average order value by up to 50%
                                     </h3>
 
                                     <hr>
-                                    <!-- A brief overview of headless CMS -->
-                                    <div style="margin: 16px 0; text-align: left" class="news-item">
-                                        <h4 style="font-weight: 600;font-size: 16px;line-height: 
-
-22px;margin-top: 16px;margin-bottom: 0;" class="news-item__title">
-                                            <a style="color: inherit" 
-
-href="https://business.adobe.com/blog/basics/a-brief-overview-of-headless-cms">
-                                                A brief overview of headless CMS
-                                            </a>
-                                        </h4>
-                                        <p class="text-sm" style="margin-top: 8px; margin-bottom: 10px; 
-
-min-height: 40px">
-                                            <a style="color: inherit" 
-
-href="https://business.adobe.com/blog/basics/a-brief-overview-of-headless-cms">
-                                                In this post, you’ll learn what a headless CMS is, how it works, 
-
-and why your organization could benefit from going “headless.”
-
-                                            </a>
-                                        </p>
-                                        <a class="read-more" style="color: inherit" 
-
-href="https://business.adobe.com/blog/basics/a-brief-overview-of-headless-cms"><span>Read 
-
-more</span>
-                                            <img src="https://github.com/rostilos/new-
-
-perspective/blob/master/email-templates/images/ecommerce-berlin/icons/Icon-arrow.png?
-
-raw=true" alt="icon-arrow" style="margin-left: 5px;display: inline-block;height: 14px;line-height: 
-
-14px;padding-top: 7px;color: inherit;" width="12" height="12">
-                                        </a>
-                                    </div>
-                                    <hr>
-                                    <!-- Generative AI is powering the business ecosystem of the future 
-
--->
-                                    <div style="margin: 16px 0; text-align: left" class="news-item">
-                                        <h4 style="font-weight: 600;font-size: 16px;line-height: 
-
-22px;margin-top: 16px;margin-bottom: 0;" class="news-item__title">
-                                            <a style="color: inherit" 
-
-href="https://business.adobe.com/blog/perspectives/generative-ai-is-powering-the-business-
-
-ecosystem-of-the-future">
-                                                Generative AI is powering the business ecosystem of the future
-                                            </a>
-                                        </h4>
-                                        <p class="text-sm" style="margin-top: 8px; margin-bottom: 10px; 
-
-min-height: 40px">
-                                            <a style="color: inherit" 
-
-href="https://business.adobe.com/blog/perspectives/generative-ai-is-powering-the-business-
-
-ecosystem-of-the-future">
-                                                Adobe is excited about the future of generative AI tools — like 
-
-Adobe Sensei GenAI and Adobe Firefly — and their applications for enterprise businesses.
-                                            </a>
-                                        </p>
-                                        <a class="read-more" style="color: inherit" 
-
-href="https://business.adobe.com/blog/perspectives/generative-ai-is-powering-the-business-
-
-ecosystem-of-the-future"><span>Read more</span>
-                                            <img src="https://github.com/rostilos/new-
-
-perspective/blob/master/email-templates/images/ecommerce-berlin/icons/Icon-arrow.png?
-
-raw=true" alt="icon-arrow" style="margin-left: 5px;display: inline-block;height: 14px;line-height: 
-
-14px;padding-top: 7px;color: inherit;" width="12" height="12">
-                                        </a>
-                                    </div>
-                                    <hr>
-                                    <!-- How AI And Immersive Tech Will Impact E-Commerce In 2024 
-
--->
-                                    <div style="margin: 16px 0; text-align: left" class="news-item">
-                                        <h4 style="font-weight: 600;font-size: 16px;line-height: 
-
-22px;margin-top: 16px;margin-bottom: 0;" class="news-item__title">
-                                            <a style="color: inherit" 
-
-href="https://www.forbes.com/sites/forbestechcouncil/2023/11/20/how-ai-and-immersive-
-
-tech-will-impact-e-commerce-in-2024/?sh=7c204ddf2d99">
-                                                How AI And Immersive Tech Will Impact E-Commerce In 
-
-2024
-                                            </a>
-                                        </h4>
-                                        <p class="text-sm" style="margin-top: 8px; margin-bottom: 10px; 
-
-min-height: 40px">
-                                            <a style="color: inherit" 
-
-href="https://www.forbes.com/sites/forbestechcouncil/2023/11/20/how-ai-and-immersive-
-
-tech-will-impact-e-commerce-in-2024/?sh=7c204ddf2d99">
-                                                Retailers looking to leverage technologies like AI, CGI and AR 
-
-should begin
-                                                by taking a series of strategic steps.
-                                            </a>
-                                        </p>
-                                        <a class="read-more" style="color: inherit" 
-
-href="https://www.forbes.com/sites/forbestechcouncil/2023/11/20/how-ai-and-immersive-
-
-tech-will-impact-e-commerce-in-2024/?sh=7c204ddf2d99"><span>Read more</span>
-                                            <img src="https://github.com/rostilos/new-
-
-perspective/blob/master/email-templates/images/ecommerce-berlin/icons/Icon-arrow.png?
-
-raw=true" alt="icon-arrow" style="margin-left: 5px;display: inline-block;height: 14px;line-height: 
-
-14px;padding-top: 7px;color: inherit;" width="12" height="12">
-                                        </a>
-                                    </div>
-                                    <hr>
-                                    <!-- A Collective Approach To E-Commerce Fraud Prevention -->
-                                    <div style="margin: 16px 0; text-align: left" class="news-item">
-                                        <h4 style="font-weight: 600;font-size: 16px;line-height: 
-
-22px;margin-top: 16px;margin-bottom: 0;" class="news-item__title">
-                                            <a style="color: inherit" 
-
-href="https://www.forbes.com/sites/forbestechcouncil/2023/11/27/a-collective-approach-to-
-
-e-commerce-fraud-prevention/?sh=7570290e6e79">
-                                                A Collective Approach To E-Commerce Fraud Prevention
-                                            </a>
-                                        </h4>
-                                        <p class="text-sm" style="margin-top: 8px; margin-bottom: 10px; 
-
-min-height: 40px">
-                                            <a style="color: inherit" 
-
-href="https://www.forbes.com/sites/forbestechcouncil/2023/11/27/a-collective-approach-to-
-
-e-commerce-fraud-prevention/?sh=7570290e6e79">
-                                                The community-driven approach to fraud prevention 
-
-encourages collaboration
-                                                among industry stakeholders.
-                                            </a>
-                                        </p>
-                                        <a class="read-more" style="color: inherit" 
-
-href="https://www.forbes.com/sites/forbestechcouncil/2023/11/27/a-collective-approach-to-
-
-e-commerce-fraud-prevention/?sh=7570290e6e79"><span>Read more</span>
-                                            <img src="https://github.com/rostilos/new-
-
-perspective/blob/master/email-templates/images/ecommerce-berlin/icons/Icon-arrow.png?
-
-raw=true" alt="icon-arrow" style="margin-left: 5px;display: inline-block;height: 14px;line-height: 
-
-14px;padding-top: 7px;color: inherit;" width="12" height="12">
-                                        </a>
-                                    </div>
-                                    <hr>
-                                    <!-- Generative AI makes product management inroads -->
-                                    <div style="margin: 16px 0; text-align: left" class="news-item">
-                                        <h4 style="font-weight: 600;font-size: 16px;line-height: 
-
-22px;margin-top: 16px;margin-bottom: 0;" class="news-item__title">
-                                            <a style="color: inherit" 
-
-href="https://www.digitalcommerce360.com/2023/11/23/generative-ai-makes-product-
-
-management-inroads/">
-                                                Generative AI makes product management inroads
-                                            </a>
-                                        </h4>
-                                        <p class="text-sm" style="margin-top: 8px; margin-bottom: 10px; 
-
-min-height: 40px">
-                                            <a style="color: inherit" 
-
-href="https://www.digitalcommerce360.com/2023/11/23/generative-ai-makes-product-
-
-management-inroads/">
-                                                With generative AI, product managers can engage with large 
-
-data sets to
-                                                identify and summarize top trends in a more complete and 
-
-accurate manner.
-                                            </a>
-                                        </p>
-                                        <a class="read-more" style="color: inherit" 
-
-href="https://www.digitalcommerce360.com/2023/11/23/generative-ai-makes-product-
-
-management-inroads/"><span>Read more</span>
-                                            <img src="https://github.com/rostilos/new-
-
-perspective/blob/master/email-templates/images/ecommerce-berlin/icons/Icon-arrow.png?
-
-raw=true" alt="icon-arrow" style="margin-left: 5px;display: inline-block;height: 14px;line-height: 
-
-14px;padding-top: 7px;color: inherit;" width="12" height="12">
-                                        </a>
-                                    </div>
-                                    <hr>
-                                    <!-- Strategy Insights: 6 Ways Retailers are Using AI Right Now and 
-
-How
-                                    Generative AI will Change Ecommerce | Digital Commerce 360 -->
-                                    <div style="margin: 16px 0; text-align: left" class="news-item">
-                                        <h4 style="font-weight: 600;font-size: 16px;line-height: 
-
-22px;margin-top: 16px;margin-bottom: 0;" class="news-item__title">
-                                            <a style="color: inherit" 
-
-href="https://www.digitalcommerce360.com/industry-resource/strategy-insights-6-ways-
-
-retailers-are-using-ai-right-now-and-how-generative-ai-will-change-ecommerce/">
-                                                Strategy Insights: 6 Ways Retailers are Using AI Right Now 
-
-and How
-                                                Generative AI will Change Ecommerce | Digital Commerce 
-
-360
-                                            </a>
-                                        </h4>
-                                        <p class="text-sm" style="margin-top: 8px; margin-bottom: 10px; 
-
-min-height: 40px">
-                                            <a style="color: inherit" 
-
-href="https://www.digitalcommerce360.com/industry-resource/strategy-insights-6-ways-
-
-retailers-are-using-ai-right-now-and-how-generative-ai-will-change-ecommerce/">
-                                                All the latest news, analysis, research reports, charts, data and 
-
-webinars
-                                                on Strategy Insights: 6 Ways Retailers are Using AI Right Now 
-
-and How
-                                                Generative AI will Change Ecommerce across 
-
-DigitalCommerce360.
-                                            </a>
-                                        </p>
-                                        <a class="read-more" style="color: inherit" 
-
-href="https://www.digitalcommerce360.com/industry-resource/strategy-insights-6-ways-
-
-retailers-are-using-ai-right-now-and-how-generative-ai-will-change-
-
-ecommerce/"><span>Read more</span>
-                                            <img src="https://github.com/rostilos/new-
-
-perspective/blob/master/email-templates/images/ecommerce-berlin/icons/Icon-arrow.png?
-
-raw=true" alt="icon-arrow" style="margin-left: 5px;display: inline-block;height: 14px;line-height: 
-
-14px;padding-top: 7px;color: inherit;" width="12" height="12">
-                                        </a>
-                                    </div>
-                                    <hr>
-                                    <!-- Will Custom GPTs Boost Ecommerce? - Practical Ecommerce 
-
--->
-                                    <div style="margin: 16px 0; text-align: left" class="news-item">
-                                        <h4 style="font-weight: 600;font-size: 16px;line-height: 
-
-22px;margin-top: 16px;margin-bottom: 0;" class="news-item__title">
-                                            <a style="color: inherit" 
-
-href="https://www.practicalecommerce.com/will-custom-gpts-boost-ecommerce">
-                                                Will Custom GPTs Boost Ecommerce? - Practical Ecommerce
-                                            </a>
-                                        </h4>
-                                        <p class="text-sm" style="margin-top: 8px; margin-bottom: 10px; 
-
-min-height: 40px">
-                                            <a style="color: inherit" 
-
-href="https://www.practicalecommerce.com/will-custom-gpts-boost-ecommerce">
-                                                OpenAI and Amazon Web Services now offer custom 
-
-generative AI builders. We
-                                                see benefits for merchants, potentially.
-                                            </a>
-                                        </p>
-                                        <a class="read-more" style="color: inherit" 
-
-href="https://www.practicalecommerce.com/will-custom-gpts-boost-
-
-ecommerce"><span>Read more</span>
-                                            <img src="https://github.com/rostilos/new-
-
-perspective/blob/master/email-templates/images/ecommerce-berlin/icons/Icon-arrow.png?
-
-raw=true" alt="icon-arrow" style="margin-left: 5px;display: inline-block;height: 14px;line-height: 
-
-14px;padding-top: 7px;color: inherit;" width="12" height="12">
-                                        </a>
-                                    </div>
-                                    <hr>
-                                    <!-- My Top Ecommerce Tools for 2024 - Practical Ecommerce -->
-                                    <div style="margin: 16px 0; text-align: left" class="news-item">
-                                        <h4 style="font-weight: 600;font-size: 16px;line-height: 
-
-22px;margin-top: 16px;margin-bottom: 0;" class="news-item__title">
-                                            <a style="color: inherit" 
-
-href="https://www.practicalecommerce.com/my-top-ecommerce-tools-for-2024">
-                                                My Top Ecommerce Tools for 2024 - Practical Ecommerce
-                                            </a>
-                                        </h4>
-                                        <p class="text-sm" style="margin-top: 8px; margin-bottom: 10px; 
-
-min-height: 40px">
-                                            <a style="color: inherit" 
-
-href="https://www.practicalecommerce.com/my-top-ecommerce-tools-for-2024">
-                                                Any list of helpful ecommerce tools would be extensive. Here 
-
-are five
-                                                must-haves per our correspondent.
-                                            </a>
-                                        </p>
-                                        <a class="read-more" style="color: inherit" 
-
-href="https://www.practicalecommerce.com/my-top-ecommerce-tools-for-
-
-2024"><span>Read more</span>
-                                            <img src="https://github.com/rostilos/new-
-
-perspective/blob/master/email-templates/images/ecommerce-berlin/icons/Icon-arrow.png?
-
-raw=true" alt="icon-arrow" style="margin-left: 5px;display: inline-block;height: 14px;line-height: 
-
-14px;padding-top: 7px;color: inherit;" width="12" height="12">
-                                        </a>
-                                    </div>
-                                    <hr>
-                                    <!-- Ecommerce Benefits of Content Marketing - Practical 
-
-Ecommerce -->
-                                    <div style="margin: 16px 0; text-align: left" class="news-item">
-                                        <h4 style="font-weight: 600;font-size: 16px;line-height: 
-
-22px;margin-top: 16px;margin-bottom: 0;" class="news-item__title">
-                                            <a style="color: inherit" 
-
-href="https://www.practicalecommerce.com/ecommerce-benefits-of-content-marketing">
-                                                Ecommerce Benefits of Content Marketing - Practical 
-
-Ecommerce
-                                            </a>
-                                        </h4>
-                                        <p class="text-sm" style="margin-top: 8px; margin-bottom: 10px; 
-
-min-height: 40px">
-                                            <a style="color: inherit" 
-
-href="https://www.practicalecommerce.com/ecommerce-benefits-of-content-marketing">
-                                                Done well, content helps merchants attract, engage, and retain 
-
-customers.
-                                            </a>
-                                        </p>
-                                        <a class="read-more" style="color: inherit" 
-
-href="https://www.practicalecommerce.com/ecommerce-benefits-of-content-
-
-marketing"><span>Read more</span>
-                                            <img src="https://github.com/rostilos/new-
-
-perspective/blob/master/email-templates/images/ecommerce-berlin/icons/Icon-arrow.png?
-
-raw=true" alt="icon-arrow" style="margin-left: 5px;display: inline-block;height: 14px;line-height: 
-
-14px;padding-top: 7px;color: inherit;" width="12" height="12">
-                                        </a>
-                                    </div>
-                                    <hr>
+ <!-- A brief overview of headless CMS -->
+<div style="margin: 16px 0; text-align: left" class="news-item">
+<h4 style="font-weight: 600;font-size: 16px;line-height: 22px;margin-top: 16px;margin-bottom: 0;" class="news-item__title">
+<a style="color: inherit" href="https://business.adobe.com/blog/basics/a-brief-overview-of-headless-cms">
+A brief overview of headless CMS
+</a>
+</h4>
+<p class="text-sm" style="margin-top: 8px; margin-bottom: 10px; min-height: 40px">
+<a style="color: inherit" href="https://business.adobe.com/blog/basics/a-brief-overview-of-headless-cms">
+In this post, you’ll learn what a headless CMS is, how it works, and why your organization could benefit from going “headless.”
+
+</a>
+</p>
+<a class="read-more" style="color: inherit" href="https://business.adobe.com/blog/basics/a-brief-overview-of-headless-cms"><span>Read more</span>
+<img src="https://github.com/rostilos/new-perspective/blob/master/email-templates/images/ecommerce-berlin/icons/Icon-arrow.png?raw=true" alt="icon-arrow" style="margin-left: 5px;display: inline-block;height: 14px;line-height: 14px;padding-top: 7px;color: inherit;" width="12" height="12">
+</a>
+</div>
+<hr>
+<!-- Generative AI is powering the business ecosystem of the future -->
+<div style="margin: 16px 0; text-align: left" class="news-item">
+<h4 style="font-weight: 600;font-size: 16px;line-height: 22px;margin-top: 16px;margin-bottom: 0;" class="news-item__title">
+<a style="color: inherit" href="https://business.adobe.com/blog/perspectives/generative-ai-is-powering-the-business-ecosystem-of-the-future">
+Generative AI is powering the business ecosystem of the future
+</a>
+</h4>
+<p class="text-sm" style="margin-top: 8px; margin-bottom: 10px; min-height: 40px">
+<a style="color: inherit" href="https://business.adobe.com/blog/perspectives/generative-ai-is-powering-the-business-ecosystem-of-the-future">
+Adobe is excited about the future of generative AI tools — like Adobe Sensei GenAI and Adobe Firefly — and their applications for enterprise businesses.
+</a>
+</p>
+<a class="read-more" style="color: inherit" href="https://business.adobe.com/blog/perspectives/generative-ai-is-powering-the-business-ecosystem-of-the-future"><span>Read more</span>
+<img src="https://github.com/rostilos/new-perspective/blob/master/email-templates/images/ecommerce-berlin/icons/Icon-arrow.png?raw=true" alt="icon-arrow" style="margin-left: 5px;display: inline-block;height: 14px;line-height: 14px;padding-top: 7px;color: inherit;" width="12" height="12">
+</a>
+</div>
+<hr>
+<!-- How AI And Immersive Tech Will Impact E-Commerce In 2024 -->
+<div style="margin: 16px 0; text-align: left" class="news-item">
+<h4 style="font-weight: 600;font-size: 16px;line-height: 22px;margin-top: 16px;margin-bottom: 0;" class="news-item__title">
+<a style="color: inherit" href="https://www.forbes.com/sites/forbestechcouncil/2023/11/20/how-ai-and-immersive-tech-will-impact-e-commerce-in-2024/?sh=7c204ddf2d99">
+How AI And Immersive Tech Will Impact E-Commerce In 2024
+</a>
+</h4>
+<p class="text-sm" style="margin-top: 8px; margin-bottom: 10px; min-height: 40px">
+<a style="color: inherit" href="https://www.forbes.com/sites/forbestechcouncil/2023/11/20/how-ai-and-immersive-tech-will-impact-e-commerce-in-2024/?sh=7c204ddf2d99">
+Retailers looking to leverage technologies like AI, CGI and AR should begin 
+by taking a series of strategic steps.
+</a>
+</p>
+<a class="read-more" style="color: inherit" href="https://www.forbes.com/sites/forbestechcouncil/2023/11/20/how-ai-and-immersive-tech-will-impact-e-commerce-in-2024/?sh=7c204ddf2d99"><span>Read more</span>
+<img src="https://github.com/rostilos/new-perspective/blob/master/email-templates/images/ecommerce-berlin/icons/Icon-arrow.png?raw=true" alt="icon-arrow" style="margin-left: 5px;display: inline-block;height: 14px;line-height: 14px;padding-top: 7px;color: inherit;" width="12" height="12">
+</a>
+</div>
+<hr>
+<!-- A Collective Approach To E-Commerce Fraud Prevention -->
+<div style="margin: 16px 0; text-align: left" class="news-item">
+<h4 style="font-weight: 600;font-size: 16px;line-height: 22px;margin-top: 16px;margin-bottom: 0;" class="news-item__title">
+<a style="color: inherit" href="https://www.forbes.com/sites/forbestechcouncil/2023/11/27/a-collective-approach-to-e-commerce-fraud-prevention/?sh=7570290e6e79">
+A Collective Approach To E-Commerce Fraud Prevention
+</a>
+</h4>
+<p class="text-sm" style="margin-top: 8px; margin-bottom: 10px; min-height: 40px">
+<a style="color: inherit" href="https://www.forbes.com/sites/forbestechcouncil/2023/11/27/a-collective-approach-to-e-commerce-fraud-prevention/?sh=7570290e6e79">
+The community-driven approach to fraud prevention encourages collaboration 
+among industry stakeholders. 
+</a>
+</p>
+<a class="read-more" style="color: inherit" href="https://www.forbes.com/sites/forbestechcouncil/2023/11/27/a-collective-approach-to-e-commerce-fraud-prevention/?sh=7570290e6e79"><span>Read more</span>
+<img src="https://github.com/rostilos/new-perspective/blob/master/email-templates/images/ecommerce-berlin/icons/Icon-arrow.png?raw=true" alt="icon-arrow" style="margin-left: 5px;display: inline-block;height: 14px;line-height: 14px;padding-top: 7px;color: inherit;" width="12" height="12">
+</a>
+</div>
+<hr>
+<!-- Generative AI makes product management inroads -->
+<div style="margin: 16px 0; text-align: left" class="news-item">
+<h4 style="font-weight: 600;font-size: 16px;line-height: 22px;margin-top: 16px;margin-bottom: 0;" class="news-item__title">
+<a style="color: inherit" href="https://www.digitalcommerce360.com/2023/11/23/generative-ai-makes-product-management-inroads/">
+Generative AI makes product management inroads
+</a>
+</h4>
+<p class="text-sm" style="margin-top: 8px; margin-bottom: 10px; min-height: 40px">
+<a style="color: inherit" href="https://www.digitalcommerce360.com/2023/11/23/generative-ai-makes-product-management-inroads/">
+With generative AI, product managers can engage with large data sets to 
+identify and summarize top trends in a more complete and accurate manner.
+</a>
+</p>
+<a class="read-more" style="color: inherit" href="https://www.digitalcommerce360.com/2023/11/23/generative-ai-makes-product-management-inroads/"><span>Read more</span>
+<img src="https://github.com/rostilos/new-perspective/blob/master/email-templates/images/ecommerce-berlin/icons/Icon-arrow.png?raw=true" alt="icon-arrow" style="margin-left: 5px;display: inline-block;height: 14px;line-height: 14px;padding-top: 7px;color: inherit;" width="12" height="12">
+</a>
+</div>
+<hr>
+<!-- Strategy Insights: 6 Ways Retailers are Using AI Right Now and How 
+Generative AI will Change Ecommerce | Digital Commerce 360 -->
+<div style="margin: 16px 0; text-align: left" class="news-item">
+<h4 style="font-weight: 600;font-size: 16px;line-height: 22px;margin-top: 16px;margin-bottom: 0;" class="news-item__title">
+<a style="color: inherit" href="https://www.digitalcommerce360.com/industry-resource/strategy-insights-6-ways-retailers-are-using-ai-right-now-and-how-generative-ai-will-change-ecommerce/">
+Strategy Insights: 6 Ways Retailers are Using AI Right Now and How 
+Generative AI will Change Ecommerce | Digital Commerce 360
+</a>
+</h4>
+<p class="text-sm" style="margin-top: 8px; margin-bottom: 10px; min-height: 40px">
+<a style="color: inherit" href="https://www.digitalcommerce360.com/industry-resource/strategy-insights-6-ways-retailers-are-using-ai-right-now-and-how-generative-ai-will-change-ecommerce/">
+All the latest news, analysis, research reports, charts, data and webinars 
+on Strategy Insights: 6 Ways Retailers are Using AI Right Now and How 
+Generative AI will Change Ecommerce across DigitalCommerce360.
+</a>
+</p>
+<a class="read-more" style="color: inherit" href="https://www.digitalcommerce360.com/industry-resource/strategy-insights-6-ways-retailers-are-using-ai-right-now-and-how-generative-ai-will-change-ecommerce/"><span>Read more</span>
+<img src="https://github.com/rostilos/new-perspective/blob/master/email-templates/images/ecommerce-berlin/icons/Icon-arrow.png?raw=true" alt="icon-arrow" style="margin-left: 5px;display: inline-block;height: 14px;line-height: 14px;padding-top: 7px;color: inherit;" width="12" height="12">
+</a>
+</div>
+<hr>
+<!-- Will Custom GPTs Boost Ecommerce? - Practical Ecommerce -->
+<div style="margin: 16px 0; text-align: left" class="news-item">
+<h4 style="font-weight: 600;font-size: 16px;line-height: 22px;margin-top: 16px;margin-bottom: 0;" class="news-item__title">
+<a style="color: inherit" href="https://www.practicalecommerce.com/will-custom-gpts-boost-ecommerce">
+Will Custom GPTs Boost Ecommerce? - Practical Ecommerce
+</a>
+</h4>
+<p class="text-sm" style="margin-top: 8px; margin-bottom: 10px; min-height: 40px">
+<a style="color: inherit" href="https://www.practicalecommerce.com/will-custom-gpts-boost-ecommerce">
+OpenAI and Amazon Web Services now offer custom generative AI builders. We 
+see benefits for merchants, potentially.
+</a>
+</p>
+<a class="read-more" style="color: inherit" href="https://www.practicalecommerce.com/will-custom-gpts-boost-ecommerce"><span>Read more</span>
+<img src="https://github.com/rostilos/new-perspective/blob/master/email-templates/images/ecommerce-berlin/icons/Icon-arrow.png?raw=true" alt="icon-arrow" style="margin-left: 5px;display: inline-block;height: 14px;line-height: 14px;padding-top: 7px;color: inherit;" width="12" height="12">
+</a>
+</div>
+<hr>
+<!-- My Top Ecommerce Tools for 2024 - Practical Ecommerce -->
+<div style="margin: 16px 0; text-align: left" class="news-item">
+<h4 style="font-weight: 600;font-size: 16px;line-height: 22px;margin-top: 16px;margin-bottom: 0;" class="news-item__title">
+<a style="color: inherit" href="https://www.practicalecommerce.com/my-top-ecommerce-tools-for-2024">
+My Top Ecommerce Tools for 2024 - Practical Ecommerce
+</a>
+</h4>
+<p class="text-sm" style="margin-top: 8px; margin-bottom: 10px; min-height: 40px">
+<a style="color: inherit" href="https://www.practicalecommerce.com/my-top-ecommerce-tools-for-2024">
+Any list of helpful ecommerce tools would be extensive. Here are five 
+must-haves per our correspondent.
+</a>
+</p>
+<a class="read-more" style="color: inherit" href="https://www.practicalecommerce.com/my-top-ecommerce-tools-for-2024"><span>Read more</span>
+<img src="https://github.com/rostilos/new-perspective/blob/master/email-templates/images/ecommerce-berlin/icons/Icon-arrow.png?raw=true" alt="icon-arrow" style="margin-left: 5px;display: inline-block;height: 14px;line-height: 14px;padding-top: 7px;color: inherit;" width="12" height="12">
+</a>
+</div>
+<hr>
+<!-- Ecommerce Benefits of Content Marketing - Practical Ecommerce -->
+<div style="margin: 16px 0; text-align: left" class="news-item">
+<h4 style="font-weight: 600;font-size: 16px;line-height: 22px;margin-top: 16px;margin-bottom: 0;" class="news-item__title">
+<a style="color: inherit" href="https://www.practicalecommerce.com/ecommerce-benefits-of-content-marketing">
+Ecommerce Benefits of Content Marketing - Practical Ecommerce
+</a>
+</h4>
+<p class="text-sm" style="margin-top: 8px; margin-bottom: 10px; min-height: 40px">
+<a style="color: inherit" href="https://www.practicalecommerce.com/ecommerce-benefits-of-content-marketing">
+Done well, content helps merchants attract, engage, and retain customers.
+</a>
+</p>
+<a class="read-more" style="color: inherit" href="https://www.practicalecommerce.com/ecommerce-benefits-of-content-marketing"><span>Read more</span>
+<img src="https://github.com/rostilos/new-perspective/blob/master/email-templates/images/ecommerce-berlin/icons/Icon-arrow.png?raw=true" alt="icon-arrow" style="margin-left: 5px;display: inline-block;height: 14px;line-height: 14px;padding-top: 7px;color: inherit;" width="12" height="12">
+</a>
+</div>
+<hr>
+<!-- Cyber Week: Analyzing Internet traffic and e-commerce trends -->
+<div style="margin: 16px 0; text-align: left" class="news-item">
+<h4 style="font-weight: 600;font-size: 16px;line-height: 22px;margin-top: 16px;margin-bottom: 0;" class="news-item__title">
+<a style="color: inherit" href="https://blog.cloudflare.com/cyber-week-analyzing-internet-traffic-and-e-commerce-trends/">
+Cyber Week: Analyzing Internet traffic and e-commerce trends
+</a>
+</h4>
+<p class="text-sm" style="margin-top: 8px; margin-bottom: 10px; min-height: 40px">
+<a style="color: inherit" href="https://blog.cloudflare.com/cyber-week-analyzing-internet-traffic-and-e-commerce-trends/">
+How significant are Cyber Week days on the Internet? Is it a global 
+phenomenon? Does e-commerce interest peak on Black Friday or Cyber Monday, 
+and are attacks increasing during this time? These questions are important 
+to retailers and stakeholders around the world.
+</a>
+</p>
+<a class="read-more" style="color: inherit" href="https://blog.cloudflare.com/cyber-week-analyzing-internet-traffic-and-e-commerce-trends/"><span>Read more</span>
+<img src="https://github.com/rostilos/new-perspective/blob/master/email-templates/images/ecommerce-berlin/icons/Icon-arrow.png?raw=true" alt="icon-arrow" style="margin-left: 5px;display: inline-block;height: 14px;line-height: 14px;padding-top: 7px;color: inherit;" width="12" height="12">
+</a>
+</div>
+<hr>
+<!-- 8 Reasons Retailers Should Give Thanks On Black Friday -->
+<div style="margin: 16px 0; text-align: left" class="news-item">
+<h4 style="font-weight: 600;font-size: 16px;line-height: 22px;margin-top: 16px;margin-bottom: 0;" class="news-item__title">
+<a style="color: inherit" href="https://www.forbes.com/sites/jennmcmillen/2023/11/21/8-reasons-retailers-should-give-thanks-on-black-friday/?sh=7bf814acf77f">
+8 Reasons Retailers Should Give Thanks On Black Friday
+</a>
+</h4>
+<p class="text-sm" style="margin-top: 8px; margin-bottom: 10px; min-height: 40px">
+<a style="color: inherit" href="https://www.forbes.com/sites/jennmcmillen/2023/11/21/8-reasons-retailers-should-give-thanks-on-black-friday/?sh=7bf814acf77f">
+Yeah, the holidays are a grind, but retailers should take a moment to give 
+thanks. These eight events could help make the holidays bigger, and welcome 
+in a better 2024.
+</a>
+</p>
+<a class="read-more" style="color: inherit" href="https://www.forbes.com/sites/jennmcmillen/2023/11/21/8-reasons-retailers-should-give-thanks-on-black-friday/?sh=7bf814acf77f"><span>Read more</span>
+<img src="https://github.com/rostilos/new-perspective/blob/master/email-templates/images/ecommerce-berlin/icons/Icon-arrow.png?raw=true" alt="icon-arrow" style="margin-left: 5px;display: inline-block;height: 14px;line-height: 14px;padding-top: 7px;color: inherit;" width="12" height="12">
+</a>
+</div>
+<hr>
+<!-- A Merry Black Friday For Retail: Store Traffic And Online Sales Up -->
+<div style="margin: 16px 0; text-align: left" class="news-item">
+<h4 style="font-weight: 600;font-size: 16px;line-height: 22px;margin-top: 16px;margin-bottom: 0;" class="news-item__title">
+<a style="color: inherit" href="https://www.forbes.com/sites/joanverdon/2023/11/25/a-merry-black-friday-for-retail-store-traffic-and-online-sales-up/?sh=2f37f05a3005">
+A Merry Black Friday For Retail: Store Traffic And Online Sales Up
+</a>
+</h4>
+<p class="text-sm" style="margin-top: 8px; margin-bottom: 10px; min-height: 40px">
+<a style="color: inherit" href="https://www.forbes.com/sites/joanverdon/2023/11/25/a-merry-black-friday-for-retail-store-traffic-and-online-sales-up/?sh=2f37f05a3005">
+Store traffic enjoyed the strongest growth in years, and online spending 
+hit a record at $9.8 billion, as Black Friday got the holiday season off to 
+a jolly start. 
+</a>
+</p>
+<a class="read-more" style="color: inherit" href="https://www.forbes.com/sites/joanverdon/2023/11/25/a-merry-black-friday-for-retail-store-traffic-and-online-sales-up/?sh=2f37f05a3005"><span>Read more</span>
+<img src="https://github.com/rostilos/new-perspective/blob/master/email-templates/images/ecommerce-berlin/icons/Icon-arrow.png?raw=true" alt="icon-arrow" style="margin-left: 5px;display: inline-block;height: 14px;line-height: 14px;padding-top: 7px;color: inherit;" width="12" height="12">
+</a>
+</div>
+<hr>
+<!-- 6 Trends That Shaped 2023’s Black Friday - Cyber Monday Results -->
+<div style="margin: 16px 0; text-align: left" class="news-item">
+<h4 style="font-weight: 600;font-size: 16px;line-height: 22px;margin-top: 16px;margin-bottom: 0;" class="news-item__title">
+<a style="color: inherit" href="https://www.forbes.com/sites/kirimasters/2023/11/29/6-trends-that-shaped-2023s-black-fridaycyber-monday-results/?sh=200748137964">
+6 Trends That Shaped 2023’s Black Friday - Cyber Monday Results
+</a>
+</h4>
+<p class="text-sm" style="margin-top: 8px; margin-bottom: 10px; min-height: 40px">
+<a style="color: inherit" href="https://www.forbes.com/sites/kirimasters/2023/11/29/6-trends-that-shaped-2023s-black-fridaycyber-monday-results/?sh=200748137964">
+Here are the top 6 quirks and trends driving the sales figures from the 
+biggest retail sales event of the year. 
+</a>
+</p>
+<a class="read-more" style="color: inherit" href="https://www.forbes.com/sites/kirimasters/2023/11/29/6-trends-that-shaped-2023s-black-fridaycyber-monday-results/?sh=200748137964"><span>Read more</span>
+<img src="https://github.com/rostilos/new-perspective/blob/master/email-templates/images/ecommerce-berlin/icons/Icon-arrow.png?raw=true" alt="icon-arrow" style="margin-left: 5px;display: inline-block;height: 14px;line-height: 14px;padding-top: 7px;color: inherit;" width="12" height="12">
+</a>
+</div>
+<hr>
                                 </div>
                             </td>
                         </tr>
@@ -1395,59 +1153,29 @@ raw=true" alt="icon-arrow" style="margin-left: 5px;display: inline-block;height:
                                         </td>
                                     </tr>
                                     <tr>
-                                        <td class="two-column table-image corp-upd" style="text-
-
-align:left;padding-bottom:18px;background: linear-gradient(270deg, #E17139 4.09%, 
-
-#CD4B3A 99.75%);">
+                                        <td class="two-column table-image corp-upd" style="text-align:left;padding-bottom:18px;background: linear-gradient(270deg, #E17139 4.09%, #CD4B3A 99.75%);">
                                             <!--[if (gte mso 9)|(IE)]>
                                             <table width="100%">
                                                 <tr>
                                                     <td width="70%" valign="top">
                                             <![endif]-->
-                                            <div class="column col-1" style="max-width: 350px;padding:0!
-
-important">
+                                            <div class="column col-1" style="max-width: 350px;padding:0!important">
                                                 <table width="100%">
                                                     <tr>
                                                         <td class="inner">
                                                             <table class="contents">
                                                                 <tr>
                                                                     <td class="text">
-                                                                        <div class="white-block" 
-
-style="width:198px;margin-top:10px;font-size:16px;background: 
-
-#ffffff;color:#E17139;padding-top: 4px;padding-bottom: 4px;padding-left: 24px;padding-right: 
-
-16px;line-height: 24px; ">
-                                                                            Oct 12 at 10:00 CEST
+                                                                        <div class="white-block" style="width:230px;margin-top:10px;font-size:16px;background: #ffffff;color:#E17139;padding-top: 4px;padding-bottom: 4px;padding-left: 24px;padding-right: 16px;line-height: 24px; ">
+                                                                            Jan 23, 2024 | Utrecht, NL
                                                                         </div>
-                                                                        <div style="padding-left: 16px;margin-bottom: 
-
-8px;">
-                                                                            <p style="padding: 24px 24px 
-
-24px;padding-left: 10px; color: #fff" class="text-base section-corporate-upd__text">
-                                                                                In our webinar with SALESmanago, 
-
-Perspective's COO, Yaroslav Zinchuk, will show how AI, personalized suggestions, and 
-
-automated rules can boost cross-selling and upselling on your e-Store.
+                                                                        <div style="padding-left: 16px;margin-bottom: 8px;">
+                                                                            <p style="padding: 24px 24px 24px;padding-left: 10px; color: #fff" class="text-base section-corporate-upd__text">
+                                                                                Catch our CEO, Artur Potulnyy, at the Webwinkel exhibition and arrange a one-on-one meeting to discuss all about your Magento business.
                                                                             </p>
                                                                             <div style="text-align: center;">
-                                                                                <img style="width: 109px;height: 47px; 
-
-margin-right: 38px; margin-bottom: 7px" width="90" height="35" 
-
-src="https://github.com/rostilos/new-perspective/blob/master/email-
-
-templates/images/Logo_Persp.png?raw=true" alt="">
-                                                                                <img style="width:78px; margin-bottom: 
-
-7px" src="https://github.com/rostilos/new-perspective/blob/master/email-
-
-templates/images/november/web-winkel.png?raw=true" alt="">
+                                                                                <img style="width: 109px;height: 47px; margin-right: 38px; margin-bottom: 7px" width="90" height="35" src="https://github.com/rostilos/new-perspective/blob/master/email-templates/images/Logo_Persp.png?raw=true" alt="">
+                                                                                <img style="width:78px; margin-bottom: 7px" src="https://github.com/rostilos/new-perspective/blob/master/email-templates/images/november/web-winkel.png?raw=true" alt="">
                                                                             </div>
 
                                                                         </div>
@@ -1461,21 +1189,15 @@ templates/images/november/web-winkel.png?raw=true" alt="">
                                             <!--[if (gte mso 9)|(IE)]>
                                             </td><td width="30%" valign="top">
                                             <![endif]-->
-                                            <div class="column col-2" style="max-width: 200px; vertical-
-
-align: bottom">
-                                                <table width="100%" style="vertical-align: middle;text-align: 
-
-center;">
+                                            <div class="column col-2" style="max-width: 200px; vertical-align: bottom">
+                                                <table width="100%" style="vertical-align: middle;text-align: center;">
                                                     <tr>
                                                         <td class="inner">
                                                             <table class="contents">
                                                                 <tr>
                                                                     <td align="left">
                                                                         <div class="corp-upd-image">
-                                                                            <img class="section-corporate-upd__image 
-
-yar-img" style="
+                                                                            <img class="section-corporate-upd__image yar-img" style="
                                             bottom: 0;
                                             right: 0;
                                             margin-bottom: 24px;
@@ -1486,24 +1208,10 @@ yar-img" style="
                                             width: 148px;
                                             height: 148px;
                                             padding-bottom: 0 !important;
-                                          " src="https://github.com/rostilos/new-
-
-perspective/blob/master/email-templates/images/november/art-img.png?raw=true" alt="img">
-                                                                            <a class="orange-button-alt" 
-
-href="https://go.salesmanago.com/perspective_salesmanago" text="DM me in Linkedin" 
-
-style="margin-bottom: 7px">
-                                                                                <span class="text-base">DM in 
-
-Linkedin</span>
-                                                                                <img style="width: 
-
-24px;position:relative;top: -2px; height: 24px;vertical-align: middle" 
-
-src="https://github.com/rostilos/new-perspective/blob/master/email-
-
-templates/images/november/mdi_linkedin.png?raw=true" alt="">
+                                          " src="https://github.com/rostilos/new-perspective/blob/master/email-templates/images/november/art-img.png?raw=true" alt="img">
+                                                                            <a class="orange-button-alt" href="https://go.salesmanago.com/perspective_salesmanago" text="DM me in Linkedin" style="margin-bottom: 7px">
+                                                                                <span class="text-base">DM in Linkedin</span>
+                                                                                <img style="width: 24px;position:relative;top: -2px; height: 24px;vertical-align: middle" src="https://github.com/rostilos/new-perspective/blob/master/email-templates/images/november/mdi_linkedin.png?raw=true" alt="">
                                                                                              </a>
 
                                                                         </div>
@@ -1550,29 +1258,15 @@ templates/images/november/mdi_linkedin.png?raw=true" alt="">
             </tr><tr>
             <td class="one-column">
                 <div style="display: inline-block; width: 100%; font-size: 0">
-                    <div class="updates-square updates-square-1" style="border: 1px solid 
-
-#949494">
+                    <div class="updates-square updates-square-1" style="border: 1px solid #949494">
                         <table class="img" style="margin-bottom: 16px;width: 80px;margin-top: 7px;">
                             <tbody>
                             <tr style="vertical-align: top">
                                 <td class="updates-square__number" align="right">
-                                    <img height="43" style="height: 43px;" 
-
-src="https://raw.githubusercontent.com/rostilos/new-perspective/master/email-
-
-templates/images/ecommerce-berlin/numbers/3.png?raw=true" alt="32">
+                                    <img height="43" style="height: 43px;" src="https://raw.githubusercontent.com/rostilos/new-perspective/master/email-templates/images/ecommerce-berlin/numbers/3.png?raw=true" alt="32">
                                 </td>
                                 <td style="padding-left: 5px !important">
-                                    <img src="https://github.com/rostilos/new-
-
-perspective/blob/master/email-templates/images/ecommerce-berlin/icons/icon-park-
-
-outline_delivery.png?raw=true" alt="projects released" width="24" height="20" 
-
-class="updates-square__icon" style="display: inline-block; height: 20px; object-fit: contain; 
-
-width: 24px">
+                                    <img src="https://github.com/rostilos/new-perspective/blob/master/email-templates/images/ecommerce-berlin/icons/icon-park-outline_delivery.png?raw=true" alt="projects released" width="24" height="20" class="updates-square__icon" style="display: inline-block; height: 20px; object-fit: contain; width: 24px">
                                 </td>
                             </tr>
                             </tbody>
@@ -1581,36 +1275,22 @@ width: 24px">
                             <tbody>
                             <tr>
                                 <td align="left">
-                                    <p class="text-base" style="font-size: 14px;"> projects <br> 
-
-released</p>
+                                    <p class="text-base" style="font-size: 14px;"> projects <br> released</p>
                                 </td>
                             </tr>
                             </tbody>
                         </table>
                     </div>
 
-                    <div class="updates-square updates-square-2" style="border: 1px solid 
-
-#949494">
+                    <div class="updates-square updates-square-2" style="border: 1px solid #949494">
                         <table class="img" style="margin-bottom: 16px;width: 80px;margin-top: 7px;">
                             <tbody>
                             <tr style="vertical-align: top">
                                 <td class="updates-square__number" align="right">
-                                    <img height="43" style="height: 43px;" 
-
-src="https://raw.githubusercontent.com/rostilos/new-perspective/master/email-
-
-templates/images/ecommerce-berlin/numbers/4.png?raw=true" alt="10">
+                                    <img height="43" style="height: 43px;" src="https://raw.githubusercontent.com/rostilos/new-perspective/master/email-templates/images/ecommerce-berlin/numbers/4.png?raw=true" alt="10">
                                 </td>
                                 <td style="padding-left: 5px !important">
-                                    <img src="https://github.com/rostilos/new-
-
-perspective/blob/master/email-templates/images/ecommerce-berlin/icons/clarity_contract-
-
-line.png?raw=true" alt="new projects" width="24" height="24" class="updates-square__icon" 
-
-style="display: inline-block; height: 24px; object-fit: contain; width: 24px">
+                                    <img src="https://github.com/rostilos/new-perspective/blob/master/email-templates/images/ecommerce-berlin/icons/clarity_contract-line.png?raw=true" alt="new projects" width="24" height="24" class="updates-square__icon" style="display: inline-block; height: 24px; object-fit: contain; width: 24px">
                                 </td>
                             </tr>
                             </tbody>
@@ -1619,38 +1299,22 @@ style="display: inline-block; height: 24px; object-fit: contain; width: 24px">
                             <tbody>
                             <tr>
                                 <td align="left">
-                                    <p class="text-base" style="font-size: 14px;">new projects <br> 
-
-started</p>
+                                    <p class="text-base" style="font-size: 14px;">new projects <br> started</p>
                                 </td>
                             </tr>
                             </tbody>
                         </table>
                     </div>
 
-                    <div class="updates-square updates-square-3" style="border: 1px solid 
-
-#949494">
+                    <div class="updates-square updates-square-3" style="border: 1px solid #949494">
                         <table class="img" style="margin-bottom: 16px;width: 80px;margin-top: 7px;">
                             <tbody>
                             <tr style="vertical-align: top">
                                 <td class="updates-square__number" align="right">
-                                    <img height="43" style="height: 43px;" 
-
-src="https://raw.githubusercontent.com/rostilos/new-perspective/master/email-
-
-templates/images/ecommerce-berlin/numbers/5.png?raw=true" alt="5">
+                                    <img height="43" style="height: 43px;" src="https://raw.githubusercontent.com/rostilos/new-perspective/master/email-templates/images/ecommerce-berlin/numbers/5.png?raw=true" alt="5">
                                 </td>
                                 <td style="padding-left: 5px !important">
-                                    <img src="https://github.com/rostilos/new-
-
-perspective/blob/master/email-templates/images/ecommerce-berlin/icons/simple-line-
-
-icons_user-follow.png?raw=true" alt="new developers joined" width="24" height="24" 
-
-class="updates-square__icon" style="display: inline-block; height: 24px; object-fit: contain; 
-
-width: 24px">
+                                    <img src="https://github.com/rostilos/new-perspective/blob/master/email-templates/images/ecommerce-berlin/icons/simple-line-icons_user-follow.png?raw=true" alt="new developers joined" width="24" height="24" class="updates-square__icon" style="display: inline-block; height: 24px; object-fit: contain; width: 24px">
                                 </td>
                             </tr>
                             </tbody>
@@ -1659,9 +1323,7 @@ width: 24px">
                             <tbody>
                             <tr>
                                 <td align="left">
-                                    <p class="text-base" style="font-size: 14px;">new developers <br> 
-
-joined our team</p>
+                                    <p class="text-base" style="font-size: 14px;">new developers <br> joined our team</p>
                                 </td>
                             </tr>
                             </tbody>
@@ -1678,13 +1340,9 @@ joined our team</p>
                         <tr>
                             <td class="inner contents">
                                 <div class="section-next-step">
-                                    <h4 class="section-next-step__title" style="font-weight: 600">Ready 
+                                    <h4 class="section-next-step__title" style="font-weight: 600">Ready to make next step?</h4>
 
-to make next step?</h4>
-
-                                    <a class="orange-button" href="https://perspectiveteam.com/contacts" 
-
-text="Get in touch now" style="margin: 0 auto 54px">
+                                    <a class="orange-button" href="https://perspectiveteam.com/contacts" text="Get in touch now" style="margin: 0 auto 54px">
                                         <span class="text-base">Get in touch now</span>
                                     </a>
                                 </div>
@@ -1698,21 +1356,7 @@ text="Get in touch now" style="margin: 0 auto 54px">
                 <td class="footer">
                     <div class="footer_body">
                         <div>
-                            <a style="margin-top: 10px; display: inline-block; padding-bottom: 10px" 
-
-href="https://perspectiveteam.com/company">About us </a><a style="margin-top: 10px; 
-
-display: inline-block; padding-bottom: 10px" href="https://perspectiveteam.com/work">Work 
-
-</a><a style="margin-top: 10px; display: inline-block; padding-bottom: 10px" 
-
-href="https://perspectiveteam.com/services">Services </a><a style="margin-top: 10px; display: 
-
-inline-block; padding-bottom: 10px" href="https://perspectiveteam.com/blog/">Blog </a><a 
-
-style="margin-top: 10px; display: inline-block; padding-bottom: 10px" 
-
-href="https://perspectiveteam.com/contacts">Contacts
+                            <a style="margin-top: 10px; display: inline-block; padding-bottom: 10px" href="https://perspectiveteam.com/company">About us </a><a style="margin-top: 10px; display: inline-block; padding-bottom: 10px" href="https://perspectiveteam.com/work">Work </a><a style="margin-top: 10px; display: inline-block; padding-bottom: 10px" href="https://perspectiveteam.com/services">Services </a><a style="margin-top: 10px; display: inline-block; padding-bottom: 10px" href="https://perspectiveteam.com/blog/">Blog </a><a style="margin-top: 10px; display: inline-block; padding-bottom: 10px" href="https://perspectiveteam.com/contacts">Contacts
                         </a>
                         </div>
                         <div style="margin-top: 30px; height: 24px">
@@ -1725,23 +1369,11 @@ href="https://perspectiveteam.com/contacts">Contacts
                     ">
                                 Follow us:
                             </div>
-                            <a href="https://www.linkedin.com/company/perspective-magento-team" 
-
-style="margin-right: 10px; display: inline-block; height: 24px">
-                                <img src="https://github.com/rostilos/new-perspective/blob/master/email-
-
-templates/images/common/linkedin-white.png?raw=true" alt="linkerIn-icon" width="24" 
-
-height="24">
+                            <a href="https://www.linkedin.com/company/perspective-magento-team" style="margin-right: 10px; display: inline-block; height: 24px">
+                                <img src="https://github.com/rostilos/new-perspective/blob/master/email-templates/images/common/linkedin-white.png?raw=true" alt="linkerIn-icon" width="24" height="24">
                             </a>
-                            <a href="https://www.facebook.com/perspective.magento.team/" 
-
-style="display: inline-block; height: 24px">
-                                <img src="https://github.com/rostilos/new-perspective/blob/master/email-
-
-templates/images/common/fb-white.png?raw=true" alt="facebook-icon" width="24" 
-
-height="24">
+                            <a href="https://www.facebook.com/perspective.magento.team/" style="display: inline-block; height: 24px">
+                                <img src="https://github.com/rostilos/new-perspective/blob/master/email-templates/images/common/fb-white.png?raw=true" alt="facebook-icon" width="24" height="24">
                             </a>
                         </div>
                     </div>
